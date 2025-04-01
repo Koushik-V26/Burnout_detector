@@ -64,8 +64,5 @@ Step 5: Monitoring & Insights
     - If Alex improves, the app celebrates his progress with positive reinforcement.
 Final Benefit
 After using the Burnout Detector, Alex feels more in control of his work-life balance. He has reduced stress, sleeps better, and avoids burnout before it becomes a serious problem.
-Details:
-Varanasi Koushik Kumar, A23126551128, CSD(2/4)
-varanasikoushikkumar@gmail.com
 
 
